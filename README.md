@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhinayJangde
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming, Hacking
 - 🌱 I’m currently learning B.Tech CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
