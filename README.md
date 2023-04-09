@@ -1,5 +1,5 @@
 # Who am I
-- 😎 Email - ahinayjangde@gmail.com ![image]:(https://avatars.githubusercontent.com/u/64852930?s=40&v=4)
+- 😎 Email - ahinayjangde@gmail.com ![MyImage]:(https://avatars.githubusercontent.com/u/64852930?s=40&v=4)
 - 🔥 YouTube - https://www.youtube.com/@AbhinayJangde
 - ❤️ Hacking & Coding
 <!---
