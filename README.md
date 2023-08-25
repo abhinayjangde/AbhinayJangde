@@ -1,5 +1,5 @@
 # Who am I
-## I'm a Full-stack Software Developer and Cyber Security Enthusiast!
+## I'm a Full-Stack Software Developer and Cyber Security Enthusiast!
 - 🌱 I’m currently learning everything 🤣
 - 😎 Email - ahinayjangde@gmail.com 
 - 🔥 YouTube - https://www.youtube.com/@AbhinayJangde
