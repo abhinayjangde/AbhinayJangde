@@ -4,4 +4,6 @@
 - 📫 How to reach me **ahinayjangde@gmail.com** 
 - 🔥 YouTube - **https://www.youtube.com/@AbhinayJangde**
 - ❤️ Hacking & Coding
-- 😘 Pull requests are always welcome :)
+- 🌐 Languages - Hindi and English
+- 😘 Skills - C/C++, Python, Java, JavaScript, HTML, CSS, Git and GitHub, Docker etc.
+- 👌 OS - Windows, Linux and MacOS
