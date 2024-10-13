@@ -13,3 +13,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayjangde&show_icons=true&theme=vision-friendly-dark" alt="Abhinay Jangde's GitHub Stats" />
 
 <br>
+
+_In my free time, I love watching movies._
