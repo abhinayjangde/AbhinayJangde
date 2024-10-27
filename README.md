@@ -14,4 +14,4 @@
 
 <br>
 
-_In my free time, I love watching movies._
+_In my free time, I love watching movies and learning new things_
