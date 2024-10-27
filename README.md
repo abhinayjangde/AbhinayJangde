@@ -1,4 +1,4 @@
-# Who am I
+# WHOAMI
 ## I'm a Full-Stack Software Developer and Cyber Security Enthusiast!
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me **ahinayjangde@gmail.com** 
