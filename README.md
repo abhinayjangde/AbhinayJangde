@@ -6,7 +6,7 @@
 - ❤️ Hacking & Coding
 - 🌐 Website - https://codebhaiya.com
 - 📝 I write blogs on [codebhaiya.com](https://www.codebhaiya.com)
-- 😘 Resume - [Check it](https://docs.google.com/document/d/1gGBPeAYJ-bsqI1_Bf7-sDoGd1K83yk5-/edit?usp=sharing&ouid=108567263058504756792&rtpof=true&sd=true)
+  
 ## 📈 GitHub Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayjangde&theme=vision-friendly-dark&count_private=true&hide=html" alt="Abhinay Jangde's Most Used Languages" />
