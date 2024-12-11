@@ -9,9 +9,9 @@
   
 ## 📈 GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayjangde&theme=dark&count_private=true&hide=html" alt="Abhinay Jangde's Most Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayjangde&theme=github_dark_dimmed&count_private=true&hide=html" alt="Abhinay Jangde's Most Used Languages" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayjangde&show_icons=true&theme=dark" alt="Abhinay Jangde's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinayjangde&show_icons=true&theme=github_dark_dimmed" alt="Abhinay Jangde's GitHub Stats" />
 
 <br>
 
