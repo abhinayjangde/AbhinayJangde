@@ -1,6 +1,6 @@
 # WHOAMI
 ## I'm a Full-Stack Software Developer and Cyber Security Enthusiast!
-- 🌱 I’m currently focusing on build projects
+- 🌱 I’m currently focusing on building projects
 - 📫 How to reach me **ahinayjangde@gmail.com** 
 - 🔥 YouTube - **https://www.youtube.com/@AbhinayJangde**
 - ❤️ Hacking & Coding
