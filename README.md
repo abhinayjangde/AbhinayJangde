@@ -3,7 +3,7 @@
 - 🌱 I’m currently focusing on building projects
 - 📫 How to reach me **ahinayjangde@gmail.com** 
 - 🔥 YouTube - **https://www.youtube.com/@AbhinayJangde**
-- ❤️ Coding
+- ❤️ Coding & Hacking
 - 🌐 Website - https://codebhaiya.com
 - 📝 I write blogs on [codebhaiya.com](https://www.codebhaiya.com)
   
